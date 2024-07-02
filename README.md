@@ -1,4 +1,4 @@
-# Hotel-Booking-Demand
+# Hotel-Booking-Cancelation
 **Unraveling Hotel Booking Cancellations:** A Data-Driven Approach
 This project dives into a rich dataset of hotel bookings, seeking to uncover the hidden patterns behind cancellations and empower hotels with actionable strategies to boost revenue.
 
